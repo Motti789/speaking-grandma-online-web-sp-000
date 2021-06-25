@@ -1,5 +1,5 @@
 # Write a speak_to_grandma method.
-def speak_to_grandma("phrase")
+def speak_to_grandma(phrase)
   phrase.upcase
   if "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
@@ -12,7 +12,6 @@ def speak_to_grandma("phrase")
   else "WHAT?"
   puts  "NO, NOT SINCE 1938!"
 
-end
 end
 end
 # Whatever you say to grandma, she should respond with
